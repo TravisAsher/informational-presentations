@@ -1,0 +1,7 @@
+# LibreOffice & Microsoft Office temporary editing lock files
+.~lock.*.odp#
+.~lock.*.pptx#
+~$*.pptx
+
+# Temporary crash recovery and autosaves
+*.tmp
